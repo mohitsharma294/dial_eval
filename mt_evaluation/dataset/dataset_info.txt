@@ -1,0 +1,7 @@
+Training Dataset:
+Europarl corpus for multiple languages pair [https://www.statmt.org/europarl/]
+United Nation parallel corpus [https://conferences.unite.un.org/UNCorpus/]
+Paracrawl corpus [https://paracrawl.eu/]
+
+Evaluation Dataset:
+wmt-17/19/21/22 Golden test set with human score [https://www.statmt.org/wmt19/results.html]
